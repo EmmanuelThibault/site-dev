@@ -31,6 +31,7 @@ img.cover-profile{
     left: 50%;
     margin-left: -50px;
     margin-top: 50px;
+    border-radius: 50px;
 }
 
 h1{
@@ -184,6 +185,7 @@ div.frame {
 
 div.frame img{
     width: 100px;
+    border-radius: 50px;
 }
 
 p.frame-title {
